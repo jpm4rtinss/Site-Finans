@@ -2,9 +2,9 @@
 Finans</h1>
 
 <div>
-  <img src="finans.png" alt="home web" height="425">
-  <img src="finans1.png" alt="home web" height="425">
-  <img src="finans-mobile.png" alt="home web" height="425">
+  <img src="https://github.com/jpm4rtinss/Site-Finans/blob/master/img/finans.PNG" alt="home web" height="425">
+  <img src="https://github.com/jpm4rtinss/Site-Finans/blob/master/img/finans1.PNG" alt="home web" height="425">
+  <img src="https://github.com/jpm4rtinss/Site-Finans/blob/master/img/finans-mobile.PNG" alt="home web" height="425">
 </div>
 
 <p align="center">Tela inicial de um aplicativo de finanças para o curso de web desenvolvimento da Udemy com HTML, CSS utilizando bootstrap 4, um layout bonito e agradavel feito com poucas linhas de código</p>
