@@ -2,8 +2,10 @@
 Finans</h1>
 
 <div>
-  <img src="https://github.com/jpm4rtinss/Site-Finans/blob/master/img/finans.PNG" alt="home web" height="425">
-  <img src="https://github.com/jpm4rtinss/Site-Finans/blob/master/img/finans1.PNG" alt="home web" height="425">
+  ## Web
+  <img src="https://github.com/jpm4rtinss/Site-Finans/blob/master/img/finans.PNG" alt="home web" width="250" height="425">
+  <img src="https://github.com/jpm4rtinss/Site-Finans/blob/master/img/finans1.PNG" alt="home web" width="250" height="425">
+  ## Mobile
   <img src="https://github.com/jpm4rtinss/Site-Finans/blob/master/img/finans-mobile.PNG" alt="home web" height="425">
 </div>
 
