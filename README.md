@@ -16,7 +16,7 @@ Finans</h1>
 
 
 
-## Features
+## Linguagens e bibliotecas
 
 -  **Bootstrap 4**  
 -  **Html** 
