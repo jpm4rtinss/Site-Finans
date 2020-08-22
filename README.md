@@ -1,7 +1,7 @@
 <h1 align="center">
 Finans</h1>
  
-<p align="center">Tela inicial de um site de finanças para o curso de web desenvolvimento da Udemy com HTML, CSS utilizando bootstrap 4, um layout bonito, responsivo e agradavel feito com poucas linhas de código</p> 
+<p align="center">Home screen of a finance website for Udemy's web development course with HTML, CSS using bootstrap 4, a beautiful, responsive and pleasant layout made with just a few lines of code</p> 
 
  ## Web
 <div>   
