@@ -14,10 +14,12 @@ Finans</h1>
   <img src="https://github.com/jpm4rtinss/Site-Finans/blob/master/img/finans-mobile.PNG" alt="home web" height="425">
 
 
+## Tech Stack
 
+-  **HTML** 
+- **CSS** (Bootstrap 4)  
 
-## languages and libraries
+## Texts language
 
--  **Bootstrap 4**  
--  **Html** 
+- **Portuguese - BR**
 
